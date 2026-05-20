@@ -24,14 +24,3 @@ Designed for **Maximum Performance** on a Local Area Network (LAN):
 *   **Architecture:** Three-Tier B/S Architecture optimized for LAN.
 *   **Security:** Strict Military-style Role-Based Access Control (RBAC).
 
-## 📅 Roadmap & Iterative Delivery
-We are delivering APAMS in 4 major increments:
-*   **Iteration 1 (Weeks 1-8):** Core Foundation & Master Data Structure.
-*   **Iteration 2 (Weeks 9-18):** The Academic Engine (Admissions & Exams).
-*   **Iteration 3 (Weeks 19-27):** The Operational Hub (Attendance & Discipline).
-*   **Iteration 4 (Weeks 28-34):** Admin, Finance & Final Integration.
-
-## 🛠 Installation (LAN Environment)
-1. **Server Requirements:** 8-core Xeon, 64GB RAM (App & DB Servers).
-2. **Database:** Import `apams_master_schema.sql` into MySQL 8.x.
-3. **Environment:** Ensure the server is running on the Academy's secure LAN (Internet-free).
